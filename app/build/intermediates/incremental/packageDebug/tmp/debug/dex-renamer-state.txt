@@ -1,0 +1,4 @@
+#Thu Dec 16 16:34:15 CST 2021
+base.0=C\:\\AndroidProject\\creditmvvmkotlin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
